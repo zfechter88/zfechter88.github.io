@@ -7,7 +7,7 @@ class LikeButton extends React.Component {
 
   render() {
     return (
-      <p>holding pattern<p>
+      <p>holding pattern</p>
     );
   }
 }
